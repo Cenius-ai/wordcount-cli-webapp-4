@@ -1,0 +1,9 @@
+Release notes, draft three.
+
+The parser now reads every input file as UTF-8, so a document written on one
+machine counts the same on another. Tabs, repeated spaces and hard line breaks
+all collapse into single separators. Nothing is written to disk and nothing is
+fetched from the network.
+
+Open question: do we document the `--` escape hatch in the quick start, or only
+in --help? Priya votes for the quick start; Marcus says help is enough.
