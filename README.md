@@ -36,7 +36,7 @@ See [`INSTALL.md`](INSTALL.md) for full setup and usage instructions.
 
 ## Architecture
 
-Kick off `./install.sh` to pull packages and seed the database, then the app is up. The Full-stack app codebase (26 files) is self-contained — no external services needed to evaluate it. Top-level layout: `examples/`. See [`INSTALL.md`](INSTALL.md) for complete setup instructions.
+Kick off `./install.sh` to pull packages and seed the database, then the app is up. The Full-stack app codebase (16 files) is self-contained — no external services needed to evaluate it. Top-level layout: `examples/`. See [`INSTALL.md`](INSTALL.md) for complete setup instructions.
 
 ## Usage guide
 
